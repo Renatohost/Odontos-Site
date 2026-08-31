@@ -1,4 +1,4 @@
-const WHATSAPP_NUMBER = '5581994711673';
+const WHATSAPP_NUMBER = '5581992847192';
 
 document.addEventListener('DOMContentLoaded', function () {
   initHeader();
